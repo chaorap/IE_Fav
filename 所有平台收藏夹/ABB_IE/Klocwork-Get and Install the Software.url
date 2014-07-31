@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://www150.abb.com/spaces/aBB%27s-SDIP-Portal/Pages/Static-Analysis/Get-and-Install-the-Software.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www150.abb.com/spaces/aBB%27s-SDIP-Portal/Pages/Static-Analysis/Get-and-Install-the-Software.aspx
+IDList=
+IconFile=http://www150.abb.com/_layouts/Images/ABB/favicon.ico
+IconIndex=1

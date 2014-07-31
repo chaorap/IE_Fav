@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://blog.csdn.net/voluptas/article/details/6339855
+[DOC_aswift_0]
+BASEURL=http://blog.csdn.net/voluptas/article/details/6339855
+ORIGURL=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://blog.csdn.net/voluptas/article/details/6339855
+IDList=
+IconFile=http://csdnimg.cn/public/favicon.ico
+IconIndex=1

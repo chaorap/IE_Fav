@@ -1,0 +1,18 @@
+[DEFAULT]
+BASEURL=http://www.cnblogs.com/txw1958/p/wechat-tutorial.html
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0]
+BASEURL=http://www.cnblogs.com/txw1958/p/wechat-tutorial.html
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0#35]
+BASEURL=res://ieframe.dll/dnserrordiagoff.htm
+ORIGURL=http://googleads.g.doubleclick.net/pagead/drt/s?v=r20120211
+[DOC_google_ads_iframe_/1090369/cnblogs_blogpost_C1_sitehome_0__hidden__]
+BASEURL=http://www.cnblogs.com/txw1958/p/wechat-tutorial.html
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.cnblogs.com/txw1958/p/wechat-tutorial.html
+IDList=
+IconFile=http://www.cnblogs.com/favicon.ico
+IconIndex=1

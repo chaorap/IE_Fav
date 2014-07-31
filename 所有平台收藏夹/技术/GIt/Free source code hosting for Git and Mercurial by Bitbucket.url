@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://bitbucket.org/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://bitbucket.org/
+IDList=
+IconFile=https://d3oaxc4q5k2d6q.cloudfront.net/m/2de54e0b41c0/img/favicon.png
+IconIndex=1

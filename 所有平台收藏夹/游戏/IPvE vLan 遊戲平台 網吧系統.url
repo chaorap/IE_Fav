@@ -1,0 +1,36 @@
+[DEFAULT]
+BASEURL=http://www.ipve.com/bbs/
+[DOC_google_ads_iframe_/2630456/vLan_bbs_728x90_1_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_728x90_1_0__hidden__]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_BBS_670x140_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_320x50_1_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_320x50_2_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_300x250_1_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_300x100_2_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_bbs_300x100_3_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[DOC_google_ads_iframe_/2630456/vLan_BBS_970x90_0]
+BASEURL=http://www.ipve.com/bbs/
+ORIGURL=javascript:"<html><body style='background:transparent'></body></html>"
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://www.ipve.com/bbs/
+IDList=
+IconFile=http://www.ipve.com/favicon.ico
+IconIndex=1

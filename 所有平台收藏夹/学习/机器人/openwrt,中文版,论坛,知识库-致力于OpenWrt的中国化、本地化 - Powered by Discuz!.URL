@@ -3,3 +3,5 @@ Prop3=19,2
 [InternetShortcut]
 URL=http://www.openwrt.org.cn/bbs/forum.php
 IDList=
+IconFile=http://www.openwrt.org.cn/favicon.ico
+IconIndex=1

@@ -1,7 +1,8 @@
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
 [InternetShortcut]
-URL=http://de-s-0173257.de.abb.com:9090/portal/Portal
+URL=http://10.16.84.53:9090/
 IDList=
 IconFile=http://de-s-0173257.de.abb.com:9090/portal/portal.ico
 IconIndex=1
+HotKey=0

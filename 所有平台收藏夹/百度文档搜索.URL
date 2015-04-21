@@ -3,3 +3,5 @@ Prop3=19,2
 [InternetShortcut]
 URL=http://file.baidu.com/
 IDList=
+IconFile=http://file.baidu.com/favicon.ico
+IconIndex=1

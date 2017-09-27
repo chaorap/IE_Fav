@@ -1,0 +1,15 @@
+[DEFAULT]
+BASEURL=https://abb-my.sharepoint.com/personal/kewell-yichao_chen_cn_abb_com/_layouts/15/onedrive.aspx
+[DOC#735]
+BASEURL=about:blank
+ORIGURL=
+[DOC_https://outlook.office365.com/owa/SuiteServiceProxy.aspx?returnUrl=https%3A%2F%2Fabb-my.sharepoint.com%2Fpersonal%2Fkewell-yichao_chen_cn_abb_com%2F_layouts%2F15%2Fonedrive.aspx_hdnIfrm]
+BASEURL=https://outlook.office365.com/owa/ev.owa2?ns=PendingRequest&ev=PendingNotificationRequest&UA=0&cid=0cd43e4c-eab8-4254-b8d4-1287db2a1491&ecnsq=1&X-OWA-CANARY=ceAFtXF1Z0CtfzAuz2I1jQDPNjdEWNMYdiwZ2R1Q0K_d3x9onpBqa4kF8CItwcNDEg6PHgyykqU.&X-SuiteServiceProxyOrigin=https://abb-my.sharepoint.com
+ORIGURL=about:blank
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://abb-my.sharepoint.com/personal/kewell-yichao_chen_cn_abb_com/_layouts/15/onedrive.aspx
+IDList=
+IconFile=https://abb-my.sharepoint.com/_layouts/15/images/odbfavicon.ico?rev=43
+IconIndex=1

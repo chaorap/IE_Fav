@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=http://203.116.165.138/
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://203.116.165.138/
+IDList=
+IconFile=http://203.116.165.138/favicon.ico
+IconIndex=1

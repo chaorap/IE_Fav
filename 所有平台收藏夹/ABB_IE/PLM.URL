@@ -1,7 +1,9 @@
+[DEFAULT]
+BASEURL=http://epes-plm.de.abb.com:7001/enovia/emxLogin.jsp
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
 [InternetShortcut]
-URL=http://10.51.33.33:7001/enovia/emxLogin.jsp
+URL=http://epes-plm.de.abb.com:7001/enovia/emxLogin.jsp
 IDList=
-IconFile=http://10.51.33.33:7001/enovia/favicon.ico
+IconFile=http://epes-plm.de.abb.com:7001/enovia/favicon.ico
 IconIndex=1

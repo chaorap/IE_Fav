@@ -1,0 +1,9 @@
+[DEFAULT]
+BASEURL=https://mylearning.abb.com/?q=learning/catalog-search/Search|klocwork
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+[InternetShortcut]
+URL=https://mylearning.abb.com/?q=learning/catalog-search/Search|klocwork
+IDList=
+IconFile=https://mylearning.abb.com/sites/all/modules/override/theme_override/images/favicon.ico
+IconIndex=1

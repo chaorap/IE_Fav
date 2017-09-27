@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=https://sites.abb.com/sites/CNILXSmiSIntelligentSolution/SitePages/Home.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,11
+Prop17=31,https://sites.abb.com/_layouts/15/images/SharePointMetroAppTile.png
+Prop16=19,3
+Prop18=31,#0072C6
+[InternetShortcut]
+URL=https://sites.abb.com/sites/CNILXSmiSIntelligentSolution/SitePages/Home.aspx
+IDList=
+IconFile=https://sites.abb.com/_layouts/15/images/favicon.ico?rev=23
+IconIndex=1

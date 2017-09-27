@@ -1,0 +1,12 @@
+[DEFAULT]
+BASEURL=http://ieclib17.iec.ch/
+[DOC__atssh494]
+BASEURL=http://ct1.addthis.com/static/r07/sh178.html
+ORIGURL=//ct1.addthis.com/static/r07/sh178.html#iit=1415667273090&tmr=load%3D1415667270018%26core%3D1415667271011%26main%3D1415667273079%26ifr%3D1415667273093&cb=0&cdn=1&chr=iso-8859-1&kw=IEC%2CInternational%20Electrotechnical%20Commission%2CCommission%20Electrotechnique%20Internationale%2CInternational%20Electrotechnical%20Commission%2CStandards%2CConformity%2CNGO%2CElectrotechnical%2CI.E.C.%2CIEC%2CInternational%20Electrotechnical%20Commission%2CStandard&ab=-&dh=ieclib17.iec.ch&dr=http%3A%2F%2F10.3.102.44%2Fgateway%2Fredirect.aspx%3Ftoken%3D719BC7DF309E36AAF7EE11758BE4C6FBF4413F8A9ADB9F93CD7FE242C39AAC6A4112F922DD33ADD9AA7482E9DE20AECC4C66BCFCB9856D8B426BA90EAA1FFA9F9C9D0CB60A60CFB03C8148E55BDAE20ECC62AB90373F9D0BE824D7975A3564B1497212AEB15A8671DA759EE5C089E8518FB735E1D83933B1CB40595D1A55C&du=http%3A%2F%2Fieclib17.iec.ch%2F&dt=IEC%20Library%20Server&dbg=0&md=0&cap=tc%3D0%26ab%3D0&inst=1&vcl=0&jsl=33&prod=undefined&lng=en-US&ogt=&pc=men&pub=iecwebmast&ssl=0&sid=54615e46a5d31bae&srpl=1&srcs=1&srd=1&srf=1&srx=1&ver=300&xck=0&xtr=0&og=&aa=0&csi=undefined&toLoJson=uvs%3D54615e46f6f30397000&trl=fr&rev=9.3&ct=1&xld=1&xd=1
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
+[InternetShortcut]
+URL=http://ieclib17.iec.ch/
+IDList=
+IconFile=http://ieclib17.iec.ch/favicon.ico
+IconIndex=1

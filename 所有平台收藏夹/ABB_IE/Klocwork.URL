@@ -1,8 +1,12 @@
+[DEFAULT]
+BASEURL=http://xc-s-zw08593.xc.abb.com:9090/portal/Portal.html
+[DOC_portal]
+BASEURL=http://xc-s-zw08593.xc.abb.com:9090/portal/portal/0CEB10620F750A5734D1165FE8F46078.cache.html
+ORIGURL=javascript:''
 [{000214A0-0000-0000-C000-000000000046}]
 Prop3=19,2
 [InternetShortcut]
-URL=http://10.16.84.53:9090/
+URL=http://xc-s-zw08593.xc.abb.com:9090/portal/Portal.html
 IDList=
-IconFile=http://de-s-0173257.de.abb.com:9090/portal/portal.ico
+IconFile=http://xc-s-zw08593.xc.abb.com:9090/portal/portal.ico
 IconIndex=1
-HotKey=0

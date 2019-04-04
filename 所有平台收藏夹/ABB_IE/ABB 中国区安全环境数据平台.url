@@ -5,3 +5,5 @@ Prop3=19,2
 [InternetShortcut]
 URL=http://mapp.cn.abb.com/eHSE/HSEForms/MyJob/MyJobForm.aspx
 IDList=
+IconFile=http://mapp.cn.abb.com/eHSE/images/ehselogo.ico
+IconIndex=1
